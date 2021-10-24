@@ -6,4 +6,4 @@ The purpose of this analysis is to aid in a project for PlanMyTrip, a web based 
 
 Further detail into the script:
 
-![WeatherPy_Database](Weather_Database\Weather_Database.ipynb)
+![Weather_Database](/Weather_Database/Weather_Database.ipynb)
