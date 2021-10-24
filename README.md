@@ -7,3 +7,7 @@ The purpose of this analysis is to aid in a project for PlanMyTrip, a web based 
 Further detail into the script:
 
 ![Weather_Database](/Weather_Database/Weather_Database.ipynb)
+
+![Vacation_Search](/Vacation_Search/Vacation_Search.ipynb)
+
+![Vacation_Itinerary](/Vacation_Itinerary/Vacation_Itinerary.ipynb)
